@@ -1,2 +1,3 @@
 # Film-anime
-Film, anime  tutto quanto gratis
+Sito legale di film e anime di dominio pubblico e contenuti gratuiti.
+
